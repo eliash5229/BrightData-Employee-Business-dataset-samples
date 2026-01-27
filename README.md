@@ -3,7 +3,7 @@
 <h2>Ein Beispiel-Datensatz mit 2.519 Datensätzen</h2>
 
 <a href="https://brightdata.de">
-    <img src="https://github.com/luminati-io/BrightData-Employee-Business-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
+    <img src="https://github.com/bright-data-de/BrightData-Employee-Business-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
 Dieses **Bright Data Employee Business Dataset Sample** umfasst **2.519 Datensätze** und wurde mithilfe der **Bright Data API** extrahiert.
